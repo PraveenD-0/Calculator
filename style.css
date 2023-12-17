@@ -8,6 +8,8 @@
 }
 
 body{
+    width: 80%;
+    margin: 0 auto;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -16,6 +18,16 @@ body{
     border: none;
 }
 
+@media (min-width: 768px) {
+
+  . body {
+    width: 60%;
+  }
+}
+@media (max-width: 767px) {
+  .body {
+    width: 100%;
+  }
 .calculator{
 
     border: none;
