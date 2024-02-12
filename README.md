@@ -2,4 +2,4 @@
 
 <hr>
 
-## NETLIFY LINK => <span><a href="https://comforting-daifuku-d3d8ef.netlify.app/" target="_blank">click me</a></span>
+## NETLIFY LINK => <span><a href="https://basic-calculator-fox.netlify.app/" target="_blank">click me</a></span>
